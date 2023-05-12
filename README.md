@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-[surf](Images/surfs-up.jpeg)
+![Hawaii](https://github.com/sncrsenyurt/sqlalchemy-challenge/blob/main/sqlalchemy-challenge/images/hawaii.png)
 
 ### Step 1 - Climate Analysis and Explorations
 
@@ -25,7 +25,7 @@
 
 - Plot the results using the DataFrame plot method.
 
-- !(Images/prcp.png)
+- ![prcp](https://github.com/sncrsenyurt/sqlalchemy-challenge/blob/main/sqlalchemy-challenge/images/prcp.png)
 
 
 * Use Pandas to print the summary statistics for the precipitation data.
@@ -48,7 +48,7 @@
 
   * Plot the results as a histogram with `bins=12`.
 
-    (Images/histogram.png)
+    ![histogram](https://github.com/sncrsenyurt/sqlalchemy-challenge/blob/main/sqlalchemy-challenge/images/histogram.png)
 ## Step 2 - Climate App
 
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
