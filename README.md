@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-(Images/surfs-up.jpeg)
+[surf](Images/surfs-up.jpeg)
 
 ### Step 1 - Climate Analysis and Explorations
 
